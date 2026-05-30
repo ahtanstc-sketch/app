@@ -1,0 +1,6 @@
+{
+  "name": "Termux Key Manager",
+  "description": "Sebuah aplikasi Android profesional untuk menghasilkan dan mengelola API Key script Termux, dilengkapi tutorial lengkap integrasi script, sistem login Google (simulasi), sinkronisasi data local & cloud, serta admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
